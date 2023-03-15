@@ -6395,11 +6395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1Uploaded to Git files\\1 Edit and Upload\\BlackBulkInsertCodeApp\\BlackBulkInsertCodeApp.csproj",
+      "projectUniqueName": "D:\\1Uploaded to Git files\\BlackBulkInsertCodeApp\\BlackBulkInsertCodeApp.csproj",
       "projectName": "BlackBulkInsertCodeApp",
-      "projectPath": "D:\\1Uploaded to Git files\\1 Edit and Upload\\BlackBulkInsertCodeApp\\BlackBulkInsertCodeApp.csproj",
+      "projectPath": "D:\\1Uploaded to Git files\\BlackBulkInsertCodeApp\\BlackBulkInsertCodeApp.csproj",
       "packagesPath": "C:\\Users\\black-coder\\.nuget\\packages\\",
-      "outputPath": "D:\\1Uploaded to Git files\\1 Edit and Upload\\BlackBulkInsertCodeApp\\obj\\",
+      "outputPath": "D:\\1Uploaded to Git files\\BlackBulkInsertCodeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
