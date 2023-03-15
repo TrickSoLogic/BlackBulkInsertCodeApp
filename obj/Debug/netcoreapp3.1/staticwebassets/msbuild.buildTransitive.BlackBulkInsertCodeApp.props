@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlackBulkInsertCodeApp.props" />
+</Project>
